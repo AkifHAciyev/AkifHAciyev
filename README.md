@@ -3,9 +3,8 @@
 [![Linkedin: sarkhanrahimli](https://img.shields.io/badge/-AkifHaciyev-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/akif-haciyev-1594351aa)](https://www.linkedin.com/in/akif-haciyev-1594351aa)
 [![GitHub Thaiane](https://img.shields.io/github/followers/AkifHaciyev?label=follow&style=social)](https://github.com/AkifHaciyev)
 
-<img align='left' width='48%' src="https://github-readme-stats.vercel.app/api?username=AkifHaciyev&show_icons=true&theme=radical">
-
-<img  align='left' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifHaciyev&layout=compact&theme=gotham&custom_title=Statistics">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkifHaciyev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimlisarkhan&layout=compact&theme=gotham&custom_title=Statistics)  
 
 # Languages and Tools
 
