@@ -4,7 +4,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/AkifHaciyev?label=follow&style=social)](https://github.com/AkifHaciyev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkifHaciyev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimlisarkhan&layout=compact&theme=gotham&custom_title=Statistics)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkifHAciyev&layout=compact&theme=gotham&custom_title=Statistics)  
 
 # Languages and Tools
 
