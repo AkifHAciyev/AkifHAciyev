@@ -1,6 +1,6 @@
 # Hi there, I'm Akif ! 👋
 
-[![Linkedin: akifhaciyev](https://img.shields.io/badge/-AkifHaciyev-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/akif-haciyev-1594351aa)](https://www.linkedin.com/in/akif-haciyev-1594351aa)
+[![Linkedin: akifhaciyev](https://img._blank.shields.io/badge/-AkifHaciyev-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/akif-haciyev-1594351aa)](https://www.linkedin.com/in/akif-haciyev-1594351aa)
 [![GitHub Thaiane](https://img.shields.io/github/followers/AkifHaciyev?label=follow&style=social)](https://github.com/AkifHaciyev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkifHaciyev&show_icons=true&theme=radical)
